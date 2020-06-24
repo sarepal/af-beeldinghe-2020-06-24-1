@@ -1,0 +1,757 @@
+{
+    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/list/fedora:emory:gz698",
+    "resources": [
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "131e4dfd-7d9f-4646-89bc-23c0cf6c7594",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=413,194,619,59",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='131e4dfd-7d9f-4646-89bc-23c0cf6c7594' style='height: 59px; width: 619px; font-size: 36.875px; letter-spacing: 50.34027777777778px' data-letter-spacing='0.08132516603841321'>DEN VADER</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a8528a55-57bd-4f00-bf7b-9ec1af55c5fa",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=248,288,959,47",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='a8528a55-57bd-4f00-bf7b-9ec1af55c5fa' style='height: 47px; width: 959px; font-size: 29.375px; letter-spacing: 27.008152173913043px' data-letter-spacing='0.028162828127125176'>VANDE TOEKOMENDE EEVWE,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4691f214-074f-405e-9b3d-d57b2bea38eb",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=309,353,840,66",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='4691f214-074f-405e-9b3d-d57b2bea38eb' style='height: 66px; width: 840px; font-size: 41.25px; letter-spacing: 39.375px' data-letter-spacing='0.046875'>IESV CHRIST O,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1a04fe67-088a-4e0d-af6f-54ddcfd70784",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=289,443,881,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='1a04fe67-088a-4e0d-af6f-54ddcfd70784' style='height: 36px; width: 881px; font-size: 22.5px; letter-spacing: 19.129310344827587px' data-letter-spacing='0.02171317859798818'>VOOR WIENS GODTHEYDT SWICHTEN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4c7c5e7c-398c-43de-bb71-ce39ea109d89",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=517,506,425,43",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='4c7c5e7c-398c-43de-bb71-ce39ea109d89' style='height: 43px; width: 425px; font-size: 26.875px; letter-spacing: 21.979166666666668px' data-letter-spacing='0.05171568627450981'>ALLE EEVWEN,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "110ad5ab-c2d7-497c-a037-6f0c8ff6a7c0",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=256,568,947,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='110ad5ab-c2d7-497c-a037-6f0c8ff6a7c0' style='height: 37px; width: 947px; font-size: 23.125px; letter-spacing: 23.511574074074073px' data-letter-spacing='0.024827427744534395'>AEN WIENS MENSCHEYDT DIENEN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a898b7e9-6237-4ddf-a929-8ea9da3412a3",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=520,633,403,42",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='a898b7e9-6237-4ddf-a929-8ea9da3412a3' style='height: 42px; width: 403px; font-size: 26.25px; letter-spacing: 20.458333333333332px' data-letter-spacing='0.05076509511993383'>ALLE TI1DEN,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "736103e9-298c-45a7-8055-d18138cfe453",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=235,695,990,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='736103e9-298c-45a7-8055-d18138cfe453' style='height: 36px; width: 990px; font-size: 22.5px; letter-spacing: 24.107142857142858px' data-letter-spacing='0.024350649350649352'>ONDERWIENS EEVWIGHEYT LOOPEN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "05610c09-9ef9-4550-8d67-f5cc199fd7a6",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=532,760,405,41",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='05610c09-9ef9-4550-8d67-f5cc199fd7a6' style='height: 41px; width: 405px; font-size: 25.625px; letter-spacing: 20.9375px' data-letter-spacing='0.05169753086419753'>ALLE IAEREN,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f4bb41f3-9364-4627-97f7-72f967021298",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=648,827,158,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='f4bb41f3-9364-4627-97f7-72f967021298' style='height: 36px; width: 158px; font-size: 22.5px; letter-spacing: 41.416666666666664px' data-letter-spacing='0.2621308016877637'>HEM</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "37fb2aeb-db82-47b8-9f95-a5b871c48ccc",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=339,895,780,65",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='37fb2aeb-db82-47b8-9f95-a5b871c48ccc' style='height: 65px; width: 780px; font-size: 40.625px; letter-spacing: 44.6875px' data-letter-spacing='0.057291666666666664'>GODT ALLEEN,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "76a057e4-2a72-4482-8a0c-4dbdfc17eaac",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=235,985,990,38",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='76a057e4-2a72-4482-8a0c-4dbdfc17eaac' style='height: 38px; width: 990px; font-size: 23.75px; letter-spacing: 16.410714285714285px' data-letter-spacing='0.016576479076479075'>TOT WIENS EERE STRECKT ONS IVBILEE,</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "67abce2c-ce10-44f5-8d3d-0318026e1cfc",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=276,1047,911,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='67abce2c-ce10-44f5-8d3d-0318026e1cfc' style='height: 35px; width: 911px; font-size: 21.875px; letter-spacing: 22.80324074074074px' data-letter-spacing='0.02503099971541245'>DERT HAER OP DE VERDIENSTEN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "99d58cda-613b-43d0-80b9-233032e353c0",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=378,1109,711,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='99d58cda-613b-43d0-80b9-233032e353c0' style='height: 37px; width: 711px; font-size: 23.125px; letter-spacing: 27.9375px' data-letter-spacing='0.03929324894514768'>VAN SIINEN H. NAEM</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "fcafced2-697f-4c39-9d3c-1bd3c27580d6",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=520,1172,415,34",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='fcafced2-697f-4c39-9d3c-1bd3c27580d6' style='height: 34px; width: 415px; font-size: 21.25px; letter-spacing: 35.486111111111114px' data-letter-spacing='0.0855087014725569'>VERTOONEN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f4f17883-2d58-4bf6-8667-12d5b7be0fd7",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=238,1228,990,55",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='f4f17883-2d58-4bf6-8667-12d5b7be0fd7' style='height: 55px; width: 990px; font-size: 34.375px; letter-spacing: 22.4125px' data-letter-spacing='0.02263888888888889'>DE MINSTE SOCIETEYT IESVj</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "810a1619-6c95-438c-8081-47c7a5a64bdf",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=315,1296,830,38",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='810a1619-6c95-438c-8081-47c7a5a64bdf' style='height: 38px; width: 830px; font-size: 23.75px; letter-spacing: 24.21195652173913px' data-letter-spacing='0.029171031953902565'>EN MET HAERDER KINDEREN</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5f9cb3bc-927a-4370-ba54-a71a217b4ef8",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,1357,672,35",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='5f9cb3bc-927a-4370-ba54-a71a217b4ef8' style='height: 35px; width: 672px; font-size: 21.875px; letter-spacing: 28.591911764705884px' data-letter-spacing='0.04254748774509804'>IIVER ENDE LIEFDE</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "19002eb9-d2fa-4241-b0fd-65b1c4ee274b",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=356,1413,716,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='19002eb9-d2fa-4241-b0fd-65b1c4ee274b' style='height: 36px; width: 716px; font-size: 22.5px; letter-spacing: 30.86764705882353px' data-letter-spacing='0.04311123890897141'>SWEET ENDE BLOEDT</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a2d5df5a-7873-4490-85ad-4671fa8d017e",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=358,1470,682,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='a2d5df5a-7873-4490-85ad-4671fa8d017e' style='height: 36px; width: 682px; font-size: 22.5px; letter-spacing: 31.375px' data-letter-spacing='0.04600439882697947'>LEVEN ENDE DOODT</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ed8bf6bf-344e-41a2-af06-c6e3a1641561",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=299,1525,868,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='ed8bf6bf-344e-41a2-af06-c6e3a1641561' style='height: 37px; width: 868px; font-size: 23.125px; letter-spacing: 26.17663043478261px' data-letter-spacing='0.030157408335003005'>IN ALLE OODTMOEDIGHEYDT</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ac26072e-e04e-49b5-ae7d-1a9df5228b7b",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=240,1582,987,50",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='ac26072e-e04e-49b5-ae7d-1a9df5228b7b' style='height: 50px; width: 987px; font-size: 31.25px; letter-spacing: 46.0625px' data-letter-spacing='0.04666919959473151'>DESEEERSTE EEVWE</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4b53c537-261c-44c4-a1da-b98c92f44b3b",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=337,1653,792,37",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='4b53c537-261c-44c4-a1da-b98c92f44b3b' style='height: 37px; width: 792px; font-size: 23.125px; letter-spacing: 24.4375px' data-letter-spacing='0.030855429292929292'>VAN HAERE INSTELLINGHE</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a25276b1-991c-4053-80b8-b1dd290a95a5",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=522,1712,422,36",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='a25276b1-991c-4053-80b8-b1dd290a95a5' style='height: 36px; width: 422px; font-size: 22.5px; letter-spacing: 23.916666666666668px' data-letter-spacing='0.05667456556082149'>OPDRAEGH EN.</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        },
+        {
+            "annotatedBy": {
+                "name": "OCR"
+            },
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d02111a9-0ffd-47db-8d05-2c6f332b30d7",
+            "@type": "oa:Annotation",
+            "on": {
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=307,1738,922,107",
+                    "item": {
+                        "@type": "oa:FragmentSelector"
+                    }
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/canvas/fedora:emory:gz698",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                }
+            },
+            "resource": {
+                "chars": "<span id='d02111a9-0ffd-47db-8d05-2c6f332b30d7' style='height: 107px; width: 922px; font-size: 66.875px; letter-spacing: -1.644396551724138px' data-letter-spacing='-0.0017835103597875683'>K'r& ynU oSLioi Saff^'a^ y.cn</span>",
+                "language": "en",
+                "@type": "cnt:ContentAsText",
+                "format": "text/html"
+            },
+            "motivation": "sc:painting"
+        }
+    ],
+    "@type": "sc:AnnotationList",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
